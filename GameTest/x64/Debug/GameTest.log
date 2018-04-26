@@ -1,0 +1,5 @@
+﻿  Spinner.cpp
+c:\users\j\documents\ubisoft\gametest_api\gametest\spinner.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameTest.vcxproj -> C:\Users\j\Documents\UBISoft\GameTest_API\x64\Debug\GameTest.exe
+  C:\Users\j\Documents\UBISoft\GameTest_API\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
